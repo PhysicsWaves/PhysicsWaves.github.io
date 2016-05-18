@@ -9,3 +9,7 @@ footer {
 html, body, .container-table {
     height: 100%;
 }
+body
+{
+background: #CFD8DC;
+}
